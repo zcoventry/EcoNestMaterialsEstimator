@@ -1,2 +1,3 @@
-# EcoNestMaterialsEstimator
-Estimator for constructing an EcoNest
+#* EcoNest Materials Estimator
+
+The project creates an estimator for constructing an [EcoNest home](https://www.econesthomes.com/).
